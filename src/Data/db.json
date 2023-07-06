@@ -5,7 +5,7 @@
       "name": "Admin User",
       "designation": "admin",
       "manager": "Mahesh Singh",
-      "doj": "12-02-2002"
+      "doj": "12-02-2001"
     },
     {
       "id": 2,
@@ -34,6 +34,13 @@
       "designation": "Software Engineer 2",
       "manager": "Amit Pandey",
       "doj": "22-07-23"
+    },
+    {
+      "name": "Nisha Verma",
+      "designation": "Staff",
+      "manager": "Rima Yadav",
+      "doj": "12-3-19",
+      "id": 6
     }
   ]
 }
