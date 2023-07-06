@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "designation": "admin",
+      "manager": "Mahesh Singh",
+      "doj": "12-02-2002"
+    },
+    {
+      "id": 2,
+      "name": "Suresh",
+      "designation": "admin",
+      "manager": "Rahul Shrama",
+      "doj": "1-02-2020"
+    },
+    {
+      "id": 3,
+      "name": "Ramesh",
+      "designation": "intern",
+      "manager": "Brijesh Mehta",
+      "doj": "12-02-2010"
+    },
+    {
+      "id": 4,
+      "name": "Raman Birla",
+      "designation": "admin",
+      "manager": "Mahesh Singh",
+      "doj": "12-02-2005"
+    },
+    {
+      "id": 5,
+      "name": "Nitu Kumari",
+      "designation": "Software Engineer 2",
+      "manager": "Amit Pandey",
+      "doj": "22-07-23"
+    }
+  ]
+}
